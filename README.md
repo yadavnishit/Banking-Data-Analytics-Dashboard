@@ -1,9 +1,6 @@
 # Banking Data Analytics Dashboard  
 Banking Data Analytics Dashboard: Comprehensive Insights from Transaction Data
 
-Here’s a professional, polished **README.md** you can use for your GitHub project. I’ve written it in a structured, engaging, and professional style so it looks solid to any reviewer or collaborator:  
-
----
 
 ## 📊 Project Overview  
 This project focuses on analyzing a **Banking Dataset** and building an **interactive analytics dashboard** that provides insights into customers, transactions, channels, and currencies. The key objective is to transform raw banking data into meaningful visuals for decision-making.  
